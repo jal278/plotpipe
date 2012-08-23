@@ -5,6 +5,8 @@ Simple C++ class for quick &amp; dirty real-time plotting via a pipe to gnuplot
 
 Right now it's just a simple header file that allows plotting a vector of one-d or two-d data that can refresh as your program runs. I designed it for scientific computing in mind, but it might be useful in many contexts.
 
+Note: right now it depends on linux (not familiar with windows pipe commands), and requires an installation of gnuplot.
+
 Here's how it's used:
 
 
