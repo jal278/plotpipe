@@ -29,7 +29,7 @@ Here's how it's used:
 
 This example will just plot a quadratic function, and scroll over time with a moving window over the function.
 
-###Example
+### Example
 
 ```bash
 git clone https://github.com/jal278/plotpipe.git
